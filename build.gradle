@@ -10,7 +10,7 @@ buildscript {
 
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.0'     // Tip 1 - b
-        classpath 'gradle.plugin.org.gradle.android:android-cache-fix-gradle-plugin:0.1.7'
+        classpath 'gradle.plugin.org.gradle.android:android-cache-fix-gradle-plugin:0.1.8'
         classpath 'com.google.gms:google-services:3.0.0'
     }
 }
